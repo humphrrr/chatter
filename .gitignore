@@ -35,3 +35,5 @@ npm-debug.log
 
 /pgdata
 /src/deps/
+/src/assets/
+/src/_build/
